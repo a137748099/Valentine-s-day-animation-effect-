@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>PixmapRes/0.png</file>
+        <file>PixmapRes/1.png</file>
+        <file>PixmapRes/02.png</file>
+        <file>PixmapRes/2.png</file>
+        <file>PixmapRes/3.png</file>
+        <file>PixmapRes/4.png</file>
+        <file>PixmapRes/5.png</file>
+        <file>PixmapRes/6.png</file>
+        <file>PixmapRes/7.png</file>
+        <file>PixmapRes/8.png</file>
+        <file>PixmapRes/9.png</file>
+        <file>PixmapRes/10.png</file>
+        <file>PixmapRes/11.jpg</file>
+    </qresource>
+</RCC>
