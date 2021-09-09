@@ -1,4 +1,4 @@
-# Valentine-s-day-animation-effect-
+# Valentine's Day
 Qt实现的情人节动画效果
 
 效果
